@@ -62,7 +62,7 @@ curl_close($curl);
      <script src="https://code.jquery.com/jquery-3.6.0.min.js" charset="utf-8"></script>
   </head>
   <body>
-    <h1>Card Component Integration</h1>
+    <h1>Drop-in Integration</h1>
 
     <div id="kenjis-dropin"></div>
 
