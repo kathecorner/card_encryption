@@ -16,7 +16,7 @@ $additional_data = [
         'value' => 110000,
         'currency' => 'JPY'
     ],
-    'returnUrl' => 'http://127.0.0.1:8080/return.php',
+    'returnUrl' => '/return.php',
     'channel' => 'Web',
     'additionalData' => [
         //'allow3DS2' => 'false'
